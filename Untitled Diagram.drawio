@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T08:32:38.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iSIEpC9DJHDv6vmDVoBb" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T08:34:52.194Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kzMJENqek_fV0EgtMF_c" version="21.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1393" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -157,6 +157,9 @@
         </mxCell>
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-109" value="header(0x02)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="272.12" y="875" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-49k5zN9t-0JaPQ6YfO6-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="-49k5zN9t-0JaPQ6YfO6-110" target="-49k5zN9t-0JaPQ6YfO6-209">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-110" value="size" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="352.12" y="875" width="50" height="30" as="geometry" />
@@ -409,6 +412,9 @@
         </mxCell>
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-207" value="50MB?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="560.12" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-49k5zN9t-0JaPQ6YfO6-209" value="size of seqmaps" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;align=center;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="960" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
