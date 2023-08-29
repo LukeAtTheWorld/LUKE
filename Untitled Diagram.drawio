@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T08:35:10.419Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QH_DzxU5Pjl5igZ7fMQJ" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T09:18:21.513Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_Q9WCARG8t4cHJCAsPeY" version="21.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1114" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -226,10 +226,10 @@
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-132" value="seqgroup-n" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-121">
           <mxGeometry x="37.5" y="119" width="82.5" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="-49k5zN9t-0JaPQ6YfO6-134" value="seqfooter" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-121">
+        <mxCell id="-49k5zN9t-0JaPQ6YfO6-134" value="seqfooter" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;fillColor=#FF38FF;strokeColor=#36393d;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-121">
           <mxGeometry y="220" width="245" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-49k5zN9t-0JaPQ6YfO6-135" value="sequence footer" style="swimlane;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="-49k5zN9t-0JaPQ6YfO6-135" value="sequence footer" style="swimlane;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;fillColor=#FF38FF;" vertex="1" parent="1">
           <mxGeometry x="1109" y="269" width="230" height="84" as="geometry">
             <mxRectangle x="332.5" y="170" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -249,7 +249,7 @@
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-153" value="..." style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-135">
           <mxGeometry x="77" y="55" width="76" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="-49k5zN9t-0JaPQ6YfO6-154" value="footern" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-135">
+        <mxCell id="-49k5zN9t-0JaPQ6YfO6-154" value="footer(n)" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="-49k5zN9t-0JaPQ6YfO6-135">
           <mxGeometry x="154" y="55" width="76" height="29" as="geometry" />
         </mxCell>
         <mxCell id="-49k5zN9t-0JaPQ6YfO6-149" value="footer" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
